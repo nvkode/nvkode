@@ -12,11 +12,11 @@
 
 <table>
     <thead>
-        <th>Name</th>
-        <th>Description</th>
+        <th align="left">Name</th>
+        <th align="left">Description</th>
     </thead>
     <tbody>
-        <tr>
+        <tr >
             <td><a href="https://github.com/nvkode/nvko">nvkode/nvko</a></td>
             <td>Base template for Symfony project with all necessary tools.</td>
         </tr>
