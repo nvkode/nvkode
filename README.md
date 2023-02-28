@@ -7,3 +7,17 @@
     currently living in 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/640px-Flag_of_Poland.svg.png?20180824112544" width="13"/> <b>Kalisz, Poland</b>.
 </p>
+
+<h2>Current projects</h2>
+
+<p>
+    [nvkode/nvko](https://github.com/nvkode/nvko) Base template for Symfony project with all necessary tools.
+</p>
+
+<p>
+    [nvkode/nvdoc](https://github.com/nvkode/nvdoc) - Transform all classes from folder to Reflection classes. Used by [nvkode/nvdoc-bundle](https://github.com/nvkode/nvdoc-bundle).
+</p>
+
+<p>
+    [nvkode/nvdoc-bundle](https://github.com/nvkode/nvdoc-bundle) - Symfony bundle for displaying current project documentation.
+</p>
