@@ -10,14 +10,23 @@
 
 <h2>Current projects</h2>
 
-<p>
-    <a href="https://github.com/nvkode/nvko">nvkode/nvko</a> Base template for Symfony project with all necessary tools.
-</p>
-
-<p>
-    <a href="https://github.com/nvkode/nvdoc">nvkode/nvdoc</a> - Transform all classes from folder to Reflection classes. Used by <a href="https://github.com/nvkode/nvdoc-bundle">nvkode/nvdoc-bundle</a>.
-</p>
-
-<p>
-    <a href="https://github.com/nvkode/nvdoc-bundle">nvkode/nvdoc-bundle</a> - Symfony bundle for displaying current project documentation.
-</p>
+<table>
+    <thead>
+        <th>Name</th>
+        <th>Description</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/nvkode/nvko">nvkode/nvko</a></td>
+            <td>Base template for Symfony project with all necessary tools.</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/nvkode/nvdoc">nvkode/nvdoc</a></td>
+            <td>Transform all classes from folder to Reflection classes. Used by <a href="https://github.com/nvkode/nvdoc-bundle">nvkode/nvdoc-bundle</a>.</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/nvkode/nvdoc-bundle">nvkode/nvdoc-bundle</a></td>
+            <td>Symfony bundle for displaying current project documentation.</td>
+        </tr>
+    </tbody>
+</table>
