@@ -8,7 +8,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/640px-Flag_of_Poland.svg.png?20180824112544" width="13"/> <b>Kalisz, Poland</b>.
 </p>
 
-<h2>Current projects</h2>
+<h2>In progess...</h2>
 
 <table>
     <thead>
@@ -27,6 +27,10 @@
         <tr>
             <td><a href="https://github.com/nvkode/nvdoc-bundle">nvkode/nvdoc-bundle</a></td>
             <td>Symfony bundle for displaying current project documentation.</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/nvkode/csp-bundle">nvkode/csp-bundle</a></td>
+            <td>Symfony CSP Bundle.</td>
         </tr>
     </tbody>
 </table>
