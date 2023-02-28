@@ -15,7 +15,7 @@
 </p>
 
 <p>
-    <a href="https://github.com/nvkode/nvdoc">nvkode/nvdoc</a> - Transform all classes from folder to Reflection classes. Used by [nvkode/nvdoc-bundle](https://github.com/nvkode/nvdoc-bundle).
+    <a href="https://github.com/nvkode/nvdoc">nvkode/nvdoc</a> - Transform all classes from folder to Reflection classes. Used by <a href="https://github.com/nvkode/nvdoc-bundle">nvkode/nvdoc-bundle</a>.
 </p>
 
 <p>
