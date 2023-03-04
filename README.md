@@ -28,9 +28,5 @@
             <td><a href="https://github.com/nvkode/nvdoc-bundle">nvkode/nvdoc-bundle</a></td>
             <td>Symfony bundle for displaying current project documentation.</td>
         </tr>
-        <tr>
-            <td><a href="https://github.com/nvkode/csp-bundle">nvkode/csp-bundle</a></td>
-            <td>Symfony CSP Bundle.</td>
-        </tr>
     </tbody>
 </table>
